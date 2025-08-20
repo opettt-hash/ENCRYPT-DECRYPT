@@ -43,8 +43,8 @@ Cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital siap jual
 ---
 
 ## Harga Lisensi / Produk 💰
-- **Harga Program Website**: ( Rp50.000 )  
-- Lisensi **Full Acces** Bisa langsung digunakan, proteksi login admin aktif, support teks & file, tanpa batasan.  
+- **Harga Program Website** ( Rp50.000 )  
+- Lisensi **full acces** Bisa langsung digunakan, proteksi login admin aktif, support teks & file, tanpa batasan.  
 - Cocok untuk **penjualan ulang** atau penggunaan pribadi.
 
 ---

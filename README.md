@@ -28,14 +28,14 @@ EVIL LOCK cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital
 ---
 
 ## 📦 Struktur Project
-│── index.php # Halaman login & dashboard utama
-│── encrypt.php # Endpoint/proses enkripsi
-│── decrypt.php # Endpoint/proses dekripsi
-│── config.php # Konfigurasi login & secret key
-│── assets/ # Folder CSS, JS, ikon, gambar
-│ ├── style.css # Tampilan UI
-│ └── app.js # AJAX handler
-│── upload/ # Folder penyimpanan file sementara (chmod 755/775)
-│── README.md # Dokumentasi
--
+- index.php # Halaman login & dashboard utama
+- encrypt.php # Endpoint/proses enkripsi
+- decrypt.php # Endpoint/proses dekripsi
+- config.php # Konfigurasi login & secret key
+- assets/ # Folder CSS, JS, ikon, gambar
+- style.css # Tampilan UI
+- app.js # AJAX handler
+- upload/ # Folder penyimpanan file sementara (chmod 755/775)
+- README.md # Dokumentasi
+
 ---

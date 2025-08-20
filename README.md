@@ -8,12 +8,12 @@ EVIL LOCK cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital
 ---
 
 ## Multi 🚀
-- ✔️ **Aman** – AES-256 (standar keamanan global)  
-- ✔️ **Mudah** – cukup login & langsung enkripsi/dekripsi via browser  
-- ✔️ **Multifungsi** – support teks & file  
-- ✔️ **Cepat** – proses instan (AJAX tanpa reload)  
-- ✔️ **Portable** – jalan di localhost & hosting biasa  
-- ✔️ **Siap Jual** – branding mudah untuk produk keamanan digital  
+- **Aman** – AES-256 (standar keamanan global)  
+- **Mudah** – cukup login & langsung enkripsi/dekripsi via browser  
+- **Multifungsi** – support teks & file  
+- **Cepat** – proses instan (AJAX tanpa reload)  
+- **Portable** – jalan di localhost & hosting biasa  
+- **Siap Jual** – branding mudah untuk produk keamanan digital  
 
 ---
 

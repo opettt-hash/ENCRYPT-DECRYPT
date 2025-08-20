@@ -3,7 +3,7 @@
 Ini adalah aplikasi web berbasis **PHP + OpenSSL AES-256** untuk melakukan **enkripsi & dekripsi file maupun teks**.  
 Dilengkapi **proteksi login admin**, **upload file**, dan **AJAX tanpa reload** agar lebih cepat, modern, serta mudah digunakan.  
 
-EVIL LOCK cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital siap jual kembali. 🚀  
+Cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital siap jual kembali. 
 
 ---
 

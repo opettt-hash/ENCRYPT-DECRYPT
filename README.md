@@ -1,5 +1,7 @@
 # Web Encryptor/Decryptor (Premium Security Tool) 🔐
 
+<img src="keren.jpg" alt="IP Result" width="50%">
+
 Ini adalah aplikasi web berbasis **PHP + OpenSSL AES-256** untuk melakukan **enkripsi & dekripsi file maupun teks**.  
 Dilengkapi **proteksi login admin**, **upload file**, dan **AJAX tanpa reload** agar lebih cepat, modern, serta mudah digunakan.  
 

@@ -55,4 +55,10 @@ Cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital siap jual
 
 ---
 
+##  Disclaimer⚠️
+PROGRAM WEBSITE ini disediakan untuk tujuan **legal dan edukasi** saja.  
+Pengguna bertanggung jawab penuh atas penggunaan aplikasi ini.  
+Pengembang tidak bertanggung jawab atas penyalahgunaan atau kerugian akibat penggunaan software ini.
+
+
 

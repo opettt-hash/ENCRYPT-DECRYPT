@@ -49,3 +49,10 @@ Cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital siap jual
 
 ---
 
+## Hubungi Untuk Pembelian 📞
+- **Telegram**: [@rolandino28](https://t.me/@rolandino28)  
+- Silakan hubungi untuk pembelian, pertanyaan, atau lisensi khusus.  
+
+---
+
+

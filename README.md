@@ -1,4 +1,4 @@
-# Web Encryptor/Decryptor (Premium Security Tool) 🔐
+# Web Encryptor/Decryptor (Premium Security Tool) 
 
 <img src="keren.jpg" alt="IP Result" width="100%">
 
@@ -9,7 +9,7 @@ Cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital siap jual
 
 ---
 
-## Multi 🚀
+## Multi 
 - **Aman** – AES-256 (standar keamanan global)  
 - **Mudah** – cukup login & langsung enkripsi/dekripsi via browser  
 - **Multifungsi** – support teks & file  
@@ -19,7 +19,7 @@ Cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital siap jual
 
 ---
 
-## Fitur Utama ✨
+## Fitur Utama 
 - **Proteksi Login Admin** (hanya user terotorisasi)  
 - **Upload File** untuk enkripsi / dekripsi  
 - **Enkripsi & Dekripsi Teks Instan**  
@@ -29,7 +29,7 @@ Cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital siap jual
 
 ---
 
-## Struktur Project 📦
+## Struktur Project 
 - index.php # Halaman login & dashboard utama
 - encrypt.php # Endpoint/proses enkripsi
 - decrypt.php # Endpoint/proses dekripsi
@@ -42,20 +42,20 @@ Cocok untuk kebutuhan pribadi, instansi, maupun sebagai produk digital siap jual
 
 ---
 
-## Harga Lisensi / Produk 💰
+## Harga Lisensi / Produk 
 - **Harga program website** ( Rp50.000 )  
 - Lisensi **full acces** Bisa langsung digunakan, proteksi login admin aktif, support teks & file, tanpa batasan.  
 - Cocok untuk **penjualan ulang** atau penggunaan pribadi.
 
 ---
 
-## Hubungi Untuk Pembelian 📞
+## Hubungi Untuk Pembelian 
 - **Telegram**: [@rolandino28](https://t.me/@rolandino28)  
 - Silakan hubungi untuk pembelian, pertanyaan, atau lisensi khusus.  
 
 ---
 
-##  Disclaimer⚠️
+##  Disclaimer
 PROGRAM WEBSITE ini disediakan untuk tujuan **legal dan edukasi** saja.  
 Pengguna bertanggung jawab penuh atas penggunaan aplikasi ini.  
 Pengembang tidak bertanggung jawab atas penyalahgunaan atau kerugian akibat penggunaan software ini.
